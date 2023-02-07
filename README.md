@@ -1,3 +1,3 @@
-# A Course in Machine Learning Notebooks
+# ML Algorithms from Scratch
 
-Mostly toy models and experimentation based on the textbook at ciml.info
+Mostly toy models and experimentation using numpy based on the algorithms from ciml.info
