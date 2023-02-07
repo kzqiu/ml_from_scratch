@@ -18,6 +18,7 @@ idna @ file:///croot/idna_1666125576474/work
 ipykernel @ file:///croot/ipykernel_1671488378391/work
 ipython @ file:///croot/ipython_1674681422581/work
 jedi @ file:///tmp/build/80754af9/jedi_1644315229345/work
+joblib==1.2.0
 jupyter_client @ file:///croot/jupyter_client_1671703053786/work
 jupyter_core @ file:///croot/jupyter_core_1672332224593/work
 kiwisolver==1.4.4
@@ -48,8 +49,11 @@ python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
 pytz==2022.7.1
 pyzmq @ file:///opt/conda/conda-bld/pyzmq_1657724186960/work
 requests @ file:///opt/conda/conda-bld/requests_1657734628632/work
+scikit-learn==1.2.1
+scipy==1.10.0
 six @ file:///tmp/build/80754af9/six_1644875935023/work
 stack-data @ file:///opt/conda/conda-bld/stack_data_1646927590127/work
+threadpoolctl==3.1.0
 torch==1.13.1
 torchaudio==0.13.1
 torchvision==0.14.1
